@@ -5,6 +5,8 @@ services:
       context: .
       args:
         - USE_FIXTURES='false'
+    env_file:
+      ./natlibfi.env
     environment:
       INDEX_URL: http://elasticsearch:9200
     ports:
