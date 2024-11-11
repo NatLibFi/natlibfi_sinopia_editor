@@ -1818,12 +1818,12 @@
   },
   {
     "label": "mts m777 RDA Media Types",
-    "uri": "https://raw.githubusercontent.com/NatLibFi/lkd/refs/heads/main/test/m777_RDAMediaTypes.json",
+    "uri": "https://raw.githubusercontent.com/NatLibFi/lkd/refs/heads/main/test/m777_RDAMediaTypes",
     "component": "list"
   },
   {
     "label": "mts list test",
-    "uri": "https://raw.githubusercontent.com/NatLibFi/lkd/refs/heads/main/test/list_test.json",
+    "uri": "https://raw.githubusercontent.com/NatLibFi/lkd/refs/heads/main/test/list_test",
     "component": "list"
   }
 ]
