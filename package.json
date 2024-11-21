@@ -213,7 +213,7 @@
     ]
   },
   "optionalDependencies": {
-    "cypress": "^9.0.0"
+    "cypress": "^13.6.6"
   },
   "main": ".eslintrc.js",
   "author": ""
