@@ -1825,5 +1825,10 @@
     "label": "mts list test",
     "uri": "https://raw.githubusercontent.com/NatLibFi/lkd/refs/heads/main/test/list_test",
     "component": "list"
+  },
+  {
+    "label": "mts finto api MediaTypes - local",
+    "uri": "file:finto_api_mts_m777_MediaType.json",
+    "component": "list"
   }
 ]
